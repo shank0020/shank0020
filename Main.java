@@ -1,3 +1,4 @@
+//binary search program
 package com.company;
 
 import java.util.Scanner;
